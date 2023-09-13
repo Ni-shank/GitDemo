@@ -12,6 +12,8 @@ public class TestSample {
       System.out.println(data.get(1));
       System.out.println(data.get(2));
       System.out.println(data.get(3));
+      System.out.println(data.get(3));
+
 // for selenium
       //driver.findElement(by.xpath("hdg")).sendkeys(data.get(1));
 
